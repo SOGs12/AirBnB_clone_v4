@@ -156,11 +156,11 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
-Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Moses Oyedele - [Github](https://github.com/SOGs12) / [Twitter](https://twitter.com/MosesOyewumi)  
+Peace Enwere - [Github](https://github.com/EligiblePeace01) / [Twitter](https://twitter.com/enwerempeace)
 
-Second part of Airbnb: Joann Vuong
-Kennedy wambua - [Github](https://github.com/homemix)
-Ojo Joseph - [Github](https://github.com/Timex19)
+Second part of Airbnb: Moses Oyedele
+Moses Oyedele - [Github](https://github.com/SOGs12)
+Peace Enwere - [Github](https://github.com/EligiblePeace01)
 ## License
 Public Domain. No copy write protection. 
